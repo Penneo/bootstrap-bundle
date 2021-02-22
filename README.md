@@ -1,6 +1,14 @@
 [BraincraftedBootstrapBundle](http://bootstrap.braincrafted.com)
 =================
 
+Penneo Note
+-----------
+
+We forked this bundle to tag a version that supports Symfony 4. This package is deprecated and abandoned, it should be deleted when it is no longer required by the signing-service/api-sign.
+
+Original Readme
+---------------
+
 BraincraftedBootstrapBundle helps you integrate [Bootstrap](http://getbootstrap.com) in your [Symfony2](http://symfony.com) project. BootstrapBundle also supports the official Sass port of Bootstrap and Font Awesome.
 
 [![Build Status](https://secure.travis-ci.org/braincrafted/bootstrap-bundle.svg)](http://travis-ci.org/braincrafted/bootstrap-bundle)
